@@ -1,5 +1,6 @@
-### Hi there 👋
-**dls2233/dls2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 👋
+**dalaoshi** ii is ✨my ✨ repository;
+###A COMMON JAVAER
 
 Here are some ideas to get you started:
 
