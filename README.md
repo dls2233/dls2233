@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on lanshan
 - 🌱 I’m currently learning java spring harmonyOS
-- 👯 I’m looking to collaborate on ![Uploading 图片.png…]()
+- 👯 I’m looking to collaborate on ![image](https://github.com/dls2233/dls2233/blob/main/image/img.png)
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: lol
 
