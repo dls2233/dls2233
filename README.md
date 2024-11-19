@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on lanshan and 九域
+- 🔭 I’m currently working on lanshan and xhs
 - 🌱 I’m currently learning java spring harmonyOS
 - 👯 I’m looking to collaborate on <img src="https://github.com/dls2233/dls2233/blob/main/cqupt.png" width="20" height="20" alt="cqupt"/><br/>
 - 😄 Pronouns: nothing
